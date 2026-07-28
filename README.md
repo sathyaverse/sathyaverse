@@ -1,8 +1,10 @@
-<h1 align="center">Hi there, I'm Sathiyapriya S 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF69B4,100:00BFFF&height=200&section=header&text=Sathiyapriya%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%7C%20Blockchain%20%7C%20Full%20Stack&descAlignY=55&descSize=18" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Cloud+%26+Blockchain+Enthusiast;Aspiring+Assistant+Professor;Python+%7C+Flask+%7C+Streamlit+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Cloud+%26+Blockchain+Enthusiast;Python+%7C+Flask+%7C+Streamlit+Developer;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,6 +15,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ### 🚀 About Me
 - 🎓 M.Sc. Computer Science graduate (Karpagam Academy of Higher Education, 2025 — 8.7 CGPA)
 - 🔭 Interested in **Cloud Computing, Blockchain Technology, Cryptography & Network Security**
@@ -20,29 +26,25 @@
 - 📝 Published research: *Dynamic Secret Sharing Scheme Using RSA-based Blockchain Encryption* (2025)
 - 💬 Ask me about **Blockchain Encryption, Cloud Computing, or Web Development**
 - 📫 How to reach me: **your.email@example.com**
-- 🎯 Aspiring **Assistant Professor** — passionate about teaching and continuous learning
+
+> *"Curious mind, always building something new."*
+
+</td>
+<td width="45%">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Front-end**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Backend & Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**Cloud & Security**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=blockchain-dot-com&logoColor=white)
-
-**Database & Tools**
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,streamlit,py,flask,aws,sqlite,git,vscode&theme=dark" />
+</p>
 
 ---
 
@@ -117,5 +119,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:FF69B4,100:8A2BE2&height=100&section=footer" />
 </p>
