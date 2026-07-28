@@ -25,7 +25,6 @@
 - 🌱 Currently exploring **RAG, LangChain, and AI Agents**
 - 📝 Published research: *Dynamic Secret Sharing Scheme Using RSA-based Blockchain Encryption* (2025)
 - 💬 Ask me about **Blockchain Encryption, Cloud Computing, or Web Development**
-- 📫 How to reach me: **your.email@example.com**
 
 > *"Curious mind, always building something new."*
 
