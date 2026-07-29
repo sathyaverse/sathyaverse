@@ -19,13 +19,14 @@
 <tr>
 <td width="55%" valign="top">
 
-### 🚀 About Me
+<img src="assets/about-banner.svg" width="100%"/>
+
 - 🎓 M.Sc. Computer Science graduate (Karpagam Academy of Higher Education, 2025 — 8.7 CGPA)
 - 🔭 Interested in **Cloud Computing, Blockchain Technology, Cryptography & Network Security**
 - 🌱 Currently exploring **RAG, LangChain, and AI Agents**
 - 📝 Published research: *Dynamic Secret Sharing Scheme Using RSA-based Blockchain Encryption* (2025)
 - 💬 Ask me about **Blockchain Encryption, Cloud Computing, or Web Development**
-> *"Curious mind, always building something new."*
+- 📫 How to reach me: **your.email@example.com**
 
 </td>
 <td width="45%">
@@ -69,15 +70,15 @@
 
 ### 📌 Featured Projects
 
-- **🔐 Dynamic Secret Sharing Scheme with RSA-Based Blockchain Encryption** *(2025)*
-  Secure text extraction and data protection using RSA-based blockchain encryption, ensuring confidentiality and tamper-proof access logs.
-  `Python` `Flask` `Streamlit` `Blockchain` `RSA Encryption`
+<p align="center">
+  <img src="assets/project-secretsharing.svg" width="100%"/>
+</p>
 
-- **🐾 Vet Care — Animal Medical Solution-Based Application** *(2023)*
-  Android app enabling farmers and pet owners to remotely consult veterinarians via video, audio, images, or text — especially for rural areas.
-  `Android` `AI Diagnostics` `Cloud Computing` `Mobile App Development`
+<p align="center">
+  <img src="assets/project-vetcare.svg" width="100%"/>
+</p>
 
-> Replace these with links once you push the project repos: `[Project Name](https://github.com/sathyaverse/repo-name)`
+> Replace the placeholder card links once you push the project repos — add a `[View Repo]` link under each banner: `[View Repo](https://github.com/sathyaverse/repo-name)`
 
 ---
 
@@ -90,12 +91,10 @@
 ---
 
 ### 📜 Certifications & Achievements
-- Blockchain & Cybersecurity Certification — Itronix Solutions (2025)
-- AWS Cloud Technical Essentials — Coursera, AWS (2025)
-- Fundamentals of AI Agents Using RAG and LangChain — Coursera, IBM (2025)
-- Software Testing — SWAYAM NPTEL (2024)
-- Preparing Data for Analysis with Microsoft Excel — Coursera, Microsoft (2025)
-- Cloud Computing Basics (Cloud 101) — Coursera (2022)
+
+<p align="center">
+  <img src="assets/certificates.svg" width="100%"/>
+</p>
 
 ---
 
@@ -119,3 +118,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:FF69B4,100:8A2BE2&height=100&section=footer" />
 </p>
+  
