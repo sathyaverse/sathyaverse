@@ -1,0 +1,56 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="hdrBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8A2BE2"/>
+      <stop offset="50%" stop-color="#FF69B4"/>
+      <stop offset="100%" stop-color="#00BFFF"/>
+    </linearGradient>
+    <filter id="nameGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="6" result="blur1"/>
+      <feMerge>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="200" fill="url(#hdrBg)"/>
+
+  <!-- wavy bottom edge -->
+  <path d="M0,150 C150,190 300,120 450,150 C600,180 750,120 900,150 L900,200 L0,200 Z" fill="#ffffff" opacity="0.18">
+    <animate attributeName="d"
+      values="M0,150 C150,190 300,120 450,150 C600,180 750,120 900,150 L900,200 L0,200 Z;
+              M0,155 C150,120 300,190 450,155 C600,120 750,190 900,155 L900,200 L0,200 Z;
+              M0,150 C150,190 300,120 450,150 C600,180 750,120 900,150 L900,200 L0,200 Z"
+      dur="6s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- glowing name -->
+  <text x="450" y="95" text-anchor="middle" font-family="Trebuchet MS, Verdana, sans-serif" font-size="48" font-weight="bold" fill="#ffffff" filter="url(#nameGlow)">
+    Sathiyapriya S
+    <animate attributeName="opacity" values="0.75;1;0.75" dur="2.2s" repeatCount="indefinite"/>
+  </text>
+  <!-- crisp overlay copy so text stays sharp while glow pulses beneath -->
+  <text x="450" y="95" text-anchor="middle" font-family="Trebuchet MS, Verdana, sans-serif" font-size="48" font-weight="bold" fill="#ffffff">
+    Sathiyapriya S
+  </text>
+
+  <text x="450" y="130" text-anchor="middle" font-family="Fira Code, monospace" font-size="18" fill="#f5f0ff">
+    Cloud &#8226; Blockchain &#8226; Full Stack
+  </text>
+
+  <!-- sparkles -->
+  <circle cx="130" cy="60" r="2.5" fill="#ffffff">
+    <animate attributeName="opacity" values="0;1;0" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="760" cy="50" r="2.5" fill="#ffffff">
+    <animate attributeName="opacity" values="0;1;0" dur="2.8s" begin="0.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="810" cy="90" r="2" fill="#ffffff">
+    <animate attributeName="opacity" values="0;1;0" dur="2s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="90" cy="100" r="2" fill="#ffffff">
+    <animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="1.3s" repeatCount="indefinite"/>
+  </circle>
+</svg>
