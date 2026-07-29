@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF69B4,100:00BFFF&height=200&section=header&text=Sathiyapriya%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%7C%20Blockchain%20%7C%20Full%20Stack&descAlignY=55&descSize=18" />
+  <img src="assets/header-banner.svg" width="100%"/>
 </p>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Cloud+%26+Blockchain+Enthusiast;Python+%7C+Flask+%7C+Streamlit+Developer;Always+Learning+New+Things" alt="Typing SVG" />
