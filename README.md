@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sathyaverse&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/sathyaverse?label=Followers&style=social" alt="followers" />
+  <img src="assets/badges.svg" width="100%"/>
 </p>
 
 ---
@@ -26,6 +25,7 @@
 - 🌱 Currently exploring **RAG, LangChain, and AI Agents**
 - 📝 Published research: *Dynamic Secret Sharing Scheme Using RSA-based Blockchain Encryption* (2025)
 - 💬 Ask me about **Blockchain Encryption, Cloud Computing, or Web Development**
+
 
 </td>
 <td width="45%">
@@ -85,6 +85,14 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathyaverse&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sathyaverse/sathyaverse/output/dist/snake-dark.svg" width="100%"/>
 </p>
 
 ---
