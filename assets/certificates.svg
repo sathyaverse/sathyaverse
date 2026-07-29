@@ -1,0 +1,82 @@
+<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="cshadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+    <filter id="cglow">
+      <feGaussianBlur stdDeviation="1.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="420" fill="#0a0a12"/>
+  <text x="450" y="30" text-anchor="middle" font-family="Trebuchet MS, sans-serif" font-size="18" fill="#ffffff" font-weight="bold">
+    📜 Certifications &amp; Achievements
+  </text>
+
+  <!-- Card 1 -->
+  <g filter="url(#cshadow)">
+    <animateTransform attributeName="transform" type="translate" values="30,50; 30,42; 30,50" dur="3.2s" repeatCount="indefinite"/>
+    <rect width="260" height="150" rx="16" fill="#1b0f2e" stroke="#FF6B6B" stroke-width="2"/>
+    <text x="20" y="35" font-size="22">🔗</text>
+    <text x="20" y="70" font-family="Georgia, serif" font-size="16" fill="#FF6B6B" font-weight="bold" filter="url(#cglow)">Blockchain &amp;</text>
+    <text x="20" y="92" font-family="Georgia, serif" font-size="16" fill="#FF6B6B" font-weight="bold" filter="url(#cglow)">Cybersecurity</text>
+    <text x="20" y="120" font-family="Verdana, sans-serif" font-size="12" fill="#c9c9d9">Itronix Solutions</text>
+    <text x="20" y="138" font-family="Verdana, sans-serif" font-size="12" fill="#8b8ba0">2025</text>
+  </g>
+
+  <!-- Card 2 -->
+  <g filter="url(#cshadow)">
+    <animateTransform attributeName="transform" type="translate" values="320,50; 320,58; 320,50" dur="3.6s" begin="0.4s" repeatCount="indefinite"/>
+    <rect width="260" height="150" rx="16" fill="#0f1e2e" stroke="#00BFFF" stroke-width="2"/>
+    <text x="20" y="35" font-size="22">☁️</text>
+    <text x="20" y="70" font-family="Trebuchet MS, sans-serif" font-size="16" fill="#00BFFF" font-weight="bold" filter="url(#cglow)">AWS Cloud</text>
+    <text x="20" y="92" font-family="Trebuchet MS, sans-serif" font-size="16" fill="#00BFFF" font-weight="bold" filter="url(#cglow)">Technical Essentials</text>
+    <text x="20" y="120" font-family="Verdana, sans-serif" font-size="12" fill="#c9c9d9">Coursera &#8226; AWS</text>
+    <text x="20" y="138" font-family="Verdana, sans-serif" font-size="12" fill="#8b8ba0">2025</text>
+  </g>
+
+  <!-- Card 3 -->
+  <g filter="url(#cshadow)">
+    <animateTransform attributeName="transform" type="translate" values="610,50; 610,42; 610,50" dur="3.9s" begin="0.8s" repeatCount="indefinite"/>
+    <rect width="260" height="150" rx="16" fill="#1e0f2a" stroke="#8A2BE2" stroke-width="2"/>
+    <text x="20" y="35" font-size="22">🤖</text>
+    <text x="20" y="70" font-family="Courier New, monospace" font-size="15" fill="#c07dff" font-weight="bold" filter="url(#cglow)">AI Agents:</text>
+    <text x="20" y="92" font-family="Courier New, monospace" font-size="15" fill="#c07dff" font-weight="bold" filter="url(#cglow)">RAG &amp; LangChain</text>
+    <text x="20" y="120" font-family="Verdana, sans-serif" font-size="12" fill="#c9c9d9">Coursera &#8226; IBM</text>
+    <text x="20" y="138" font-family="Verdana, sans-serif" font-size="12" fill="#8b8ba0">2025</text>
+  </g>
+
+  <!-- Card 4 -->
+  <g filter="url(#cshadow)">
+    <animateTransform attributeName="transform" type="translate" values="30,230; 30,238; 30,230" dur="3.4s" begin="0.2s" repeatCount="indefinite"/>
+    <rect width="260" height="150" rx="16" fill="#0f2a1e" stroke="#00e0a0" stroke-width="2"/>
+    <text x="20" y="35" font-size="22">🧪</text>
+    <text x="20" y="70" font-family="Impact, sans-serif" font-size="18" fill="#00e0a0" filter="url(#cglow)">SOFTWARE</text>
+    <text x="20" y="92" font-family="Impact, sans-serif" font-size="18" fill="#00e0a0" filter="url(#cglow)">TESTING</text>
+    <text x="20" y="120" font-family="Verdana, sans-serif" font-size="12" fill="#c9c9d9">SWAYAM NPTEL</text>
+    <text x="20" y="138" font-family="Verdana, sans-serif" font-size="12" fill="#8b8ba0">2024</text>
+  </g>
+
+  <!-- Card 5 -->
+  <g filter="url(#cshadow)">
+    <animateTransform attributeName="transform" type="translate" values="320,230; 320,222; 320,230" dur="3.1s" begin="0.6s" repeatCount="indefinite"/>
+    <rect width="260" height="150" rx="16" fill="#1a1a2e" stroke="#FFD93D" stroke-width="2"/>
+    <text x="20" y="35" font-size="22">📊</text>
+    <text x="20" y="70" font-family="Segoe UI, sans-serif" font-size="15" fill="#FFD93D" font-weight="bold" filter="url(#cglow)">Data Analysis</text>
+    <text x="20" y="92" font-family="Segoe UI, sans-serif" font-size="15" fill="#FFD93D" font-weight="bold" filter="url(#cglow)">with Excel</text>
+    <text x="20" y="120" font-family="Verdana, sans-serif" font-size="12" fill="#c9c9d9">Coursera &#8226; Microsoft</text>
+    <text x="20" y="138" font-family="Verdana, sans-serif" font-size="12" fill="#8b8ba0">2025</text>
+  </g>
+
+  <!-- Card 6 -->
+  <g filter="url(#cshadow)">
+    <animateTransform attributeName="transform" type="translate" values="610,230; 610,238; 610,230" dur="3.7s" begin="1s" repeatCount="indefinite"/>
+    <rect width="260" height="150" rx="16" fill="#0f1f2a" stroke="#38ada9" stroke-width="2"/>
+    <text x="20" y="35" font-size="22">☁️</text>
+    <text x="20" y="70" font-family="Brush Script MT, cursive" font-size="22" fill="#38ada9" filter="url(#cglow)">Cloud 101</text>
+    <text x="20" y="95" font-family="Georgia, serif" font-size="13" fill="#8ce0d8">Cloud Computing Basics</text>
+    <text x="20" y="120" font-family="Verdana, sans-serif" font-size="12" fill="#c9c9d9">Coursera</text>
+    <text x="20" y="138" font-family="Verdana, sans-serif" font-size="12" fill="#8b8ba0">2022</text>
+  </g>
+</svg>
